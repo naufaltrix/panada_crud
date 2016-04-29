@@ -8,7 +8,7 @@ Ini adalah simpel coding sistem CRUD dengan menggunakan Panada Framework.
 Bagi yang ingin belajar, dapat masuke ke https://panadaframework.com/ atau dapat
 mengambil contoh dari script yang dibuat disini.
 
-*Spesifikasi :
+Spesifikasi :
 ------------
 
 - Php Framework : Panada Framework
@@ -16,7 +16,7 @@ mengambil contoh dari script yang dibuat disini.
 - Database : mySql
 
 
-*Cases : 
+Cases : 
 ------------
 
 Dalam kasus ini dibahas tentang simpel coding CRUD (Creat, Update, Delete) system untuk
